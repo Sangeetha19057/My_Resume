@@ -55,7 +55,7 @@ export function Home() {
           <ul className="sci">
             <li>
               <a
-                href="https://github.com/Sangeetha19057"
+                href="https://github.com/Sangeetha"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -63,12 +63,12 @@ export function Home() {
               </a>
             </li>
             <li>
-              <a href="mailto:sangeeswty4@gmail.com">
+              <a href="sangeeswty4@gmail.com">
                 <i className="fa fa-envelope" aria-hidden="true"></i>
               </a>
             </li>
             <li>
-              <a href="tel:+91 8190872950">
+              <a href="tel:+91 1234567890">
                 <i className="fa fa-whatsapp" aria-hidden="true"></i>
               </a>
             </li>
