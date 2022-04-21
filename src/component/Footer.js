@@ -26,14 +26,14 @@ export function Footer() {
             <li>
               <div className="footer_icon_container">
                 <a
-                  href="https://github.com/Sangeetha19057"
+                  href="https://github.com/Sangeetha"
                   className="footer_icon_box"
                 >
                   <i className="fa fa-github" aria-hidden="true"></i>
                 </a>
                 <p className="footer_icon_box--text">
                   <a
-                    href="https://github.com/Sangeetha19057"
+                    href="https://github.com/Sangeetha"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -47,7 +47,7 @@ export function Footer() {
             <li>
               <div className="footer_icon_container">
                 <a
-                  href="mailto:sangeeswty4@gmail.com"
+                  href="sa"
                   className="footer_icon_box"
                 >
                   <i className="fa fa-envelope" aria-hidden="true"></i>
@@ -67,7 +67,7 @@ export function Footer() {
                   <i className="fa fa-whatsapp" aria-hidden="true"></i>
                 </a>
                 <p className="footer_icon_box--text">
-                  <a href="tel:+91 8190872950">+91 8190872950</a>
+                  <a href="tel:+91 1234567890">+91 1234567890</a>
                 </p>
               </div>
             </li>
